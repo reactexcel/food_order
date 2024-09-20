@@ -1,0 +1,1 @@
+#### For this project, my goal is to create a web application for _"Ordering Food"_ that demonstrates my proficiency in React.js.
